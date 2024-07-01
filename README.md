@@ -1,4 +1,4 @@
-# Solution to the internship task 
+# About the Project 
 The mini projects runs a bash script to deploy a kind cluster locally. 
 Once the kind cluster is up and running and the kubeconfig file has been downloaded. 
 A dockerized hello world express appliation is deployed to cluster using  kubectl terraform provider.
